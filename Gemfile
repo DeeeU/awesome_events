@@ -65,7 +65,6 @@ group :test do
 end
 
 group :development, :test do
-# Rails で元から追加されている gem は省略
   gem 'rspec-rails'
 end
 
